@@ -1,0 +1,7 @@
+name: nameenv
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - cookiecutter
+prefix: C:\Users\Nelson\anaconda3\envs\nameenv
